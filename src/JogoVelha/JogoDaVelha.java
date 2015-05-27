@@ -1,5 +1,7 @@
-package JogoVelha;
+package modulos;
 
-public class JogoDaVelha {
+import java.util.Random;
+
+public class SortearJogador {
 
 }
